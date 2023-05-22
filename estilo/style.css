@@ -1,0 +1,27 @@
+h1{
+    background: black;
+    color: white;
+    padding: 20px;
+    
+}
+
+h2{
+    background-color: purple;
+    text-align: center;
+    font-style: italic;
+    color: white;
+    padding: 18px;
+
+    
+}
+
+h3{
+    background-color: cornflowerblue;
+    text-align: right;
+    text-decoration: underline;
+    padding: 10px;
+}
+span{
+    color: aqua;
+    
+}
